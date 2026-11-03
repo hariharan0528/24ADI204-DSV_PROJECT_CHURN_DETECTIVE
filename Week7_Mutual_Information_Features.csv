@@ -1,0 +1,30 @@
+Feature,Mutual Information Score
+AccountAge,0.04575041206178887
+TotalCharges_Log,0.022819245252275966
+TotalCharges,0.021416774112743564
+MonthlyCharges,0.01631857087273958
+ViewingHoursPerWeek,0.014928318831253673
+ContentDownloadsPerMonth,0.011375156357679161
+WatchlistSize,0.009064010112789678
+PaymentMethod_Mailed check,0.002016254710296164
+SubtitlesEnabled_Yes,0.0015939225290715897
+DeviceRegistered_Mobile,0.0012453468654883004
+GenrePreference_Fantasy,0.0010489674192036696
+ContentType_Movies,0.001038299943284554
+DeviceRegistered_Tablet,0.0009196621559840537
+MultiDeviceAccess_Yes,0.0004063637148407906
+SubscriptionType_Standard,0.00020399997841993867
+DeviceRegistered_TV,0.00018193956480361262
+PaymentMethod_Credit card,0.00014632094366698323
+GenrePreference_Sci-Fi,0.00012721796941481123
+GenrePreference_Drama,5.595745490348525e-05
+PaymentMethod_Electronic check,5.258148167110177e-05
+PaperlessBilling_Yes,4.836967409918569e-05
+ParentalControl_Yes,2.2025681501336436e-05
+ContentType_TV Shows,3.0258608692823596e-06
+GenrePreference_Comedy,1.5361131500135627e-06
+SubscriptionType_Premium,7.120231397539367e-07
+Gender_Male,2.2985245207163274e-08
+UserRating,0.0
+AverageViewingDuration,0.0
+SupportTicketsPerMonth,0.0
